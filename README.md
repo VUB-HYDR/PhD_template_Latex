@@ -1,4 +1,4 @@
-# PhD Latex template
+# PhD thesis template in Latex
 
 LaTeX template of the PhD thesis of the HYDR department. 
 An example of a full thesis can be downloaded [here](https://www.researchgate.net/publication/361764631_Changing_storage_A_global_perspective_on_reservoirs_in_a_changing_climate). 
